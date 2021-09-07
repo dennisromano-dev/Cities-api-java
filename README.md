@@ -1,6 +1,8 @@
 # Cities-api-java
+
 Projeto bootcamp java - criando uma api rest que consulta cidades do brasil 
 Cities API
+
 
 Requirements
 
@@ -16,6 +18,8 @@ IntelliJ Community
 
 Heroku CLI
 
+
+
 DataBase
 
 Postgres
@@ -25,6 +29,7 @@ Postgres Docker Hub
 docker run --name cities-db -d -p 5432:5432 -e POSTGRES_USER=postgres_user_city -e POSTGRES_PASSWORD=super_password -e POSTGRES_DB=cities postgres
 
 Populate
+
 
 data
 
